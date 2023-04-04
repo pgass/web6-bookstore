@@ -21,7 +21,7 @@ class AuthorsTableSeeder extends Seeder
         $author1->save();
 
         $author2 = new Author();
-        $author2->firstName = 'Max';
+        $author2->firstName = 'Maxi';
         $author2->lastName = 'Mustermann';
         $author2->save();
 
